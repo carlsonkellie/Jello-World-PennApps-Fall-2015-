@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-5612a8fdfe737b46b8a4aedf3cc31421192339df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-7f9d3f6467b2c3b1191a82810253e22859b84859.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-51a438b3463485339b812f52f4ea9765f5c512ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-a20e0a9e59b74c58e984cc8cce2659b6d0c0c4e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-6a575f32427f1283906c2c97b862c87c21985ec0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-4c56d2943f5f0dbc55a5a9a67c7f1a8a0c060603.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-f9f69e0d3cfc6d31c58c2a28922fc914ee08ffdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-c737cf532ad5af8667951b5dfd71875439cf865d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-81956b5afc513f2ba7db2c141b9cb8cace28956d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-df7b56df42ff5dfce4d1c49c6aca99447de42dc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-12c709e34225ce94c80efd8a68f0e2412c7fb499.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-3e16c649a6b3d6e69df68da85dbb8e363541f565.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-7d2c5925f307b2fa27f39bc699be5037fcd59ffd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-b3b185a76d9c0c1820dea7007585d6b31d940c3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-a6ff3b756a3cac496efdc554335debf2e032936c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-766e6e11a639f06059e78355167c032243cbf4f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-4595fde4b6fd139d775138f6af99348fab5ad821.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-dc13c3817deb24aa1dff14886d074f92ed09e997.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Lily\AndroidStudioProjects\Exercise\app\build\intermediates\pre-dexed\debug\classes-aa18538e85c6712d29cffaa89e27926516d49760.jar" />
+    </item>
+
+</items>
